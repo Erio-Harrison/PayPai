@@ -3,7 +3,9 @@ mod wallet;
 mod commands;
 
 use std::sync::Arc;
+use storage::Storage;
 use tauri::async_runtime::Mutex;
+use wallet::WalletManager;
 
 #[tokio::main]
 async fn main() {
