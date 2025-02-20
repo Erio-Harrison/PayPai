@@ -151,9 +151,3 @@ This project is licensed under the GNU License - see the LICENSE file for detail
 - [Next.js](https://nextjs.org)
 - [shadcn/ui](https://ui.shadcn.com)
 - [Solana](https://solana.com)
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/paypai](https://github.com/Erio-Harrison/paypai)
